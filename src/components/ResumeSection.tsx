@@ -106,11 +106,11 @@ const ResumeSection = () => {
               </p>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
                 <div>
-                  <div className="text-2xl font-bold text-ai-blue mb-1">5+</div>
+                  <div className="text-2xl font-bold text-ai-blue mb-1">7+</div>
                   <div className="text-sm text-gray-400">AI Projects</div>
                 </div>
                 <div>
-                  <div className="text-2xl font-bold text-ai-purple mb-1">3+</div>
+                  <div className="text-2xl font-bold text-ai-purple mb-1">8+</div>
                   <div className="text-sm text-gray-400">Certifications</div>
                 </div>
                 <div>
